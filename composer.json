@@ -59,7 +59,7 @@
         "symfony/console": "^5.4.12 || ^6.4 || ^7.0",
         "symfony/dependency-injection": "^5.4.12 || ^6.4 || ^7.0",
         "symfony/filesystem": "^5.4.12 || ^6.4 || ^7.0",
-        "symfony/serializer": "^5.4.12 || ^6.4 || ^7.1",
+        "symfony/serializer": "^5.4.12 || ^6.4 || ^7.0",
         "symfony/yaml": "^5.4.12 || ^6.4 || ^7.0",
         "webmozart/assert": "^1.0"
     },
