@@ -33,7 +33,6 @@
             "homepage": "https://twitter.com/jderusse"
         }
     ],
-    {
     "require": {
         "php": "^8.3",
         "ext-filter": "*",
