@@ -69,7 +69,7 @@
         "symfony/phpunit-bridge": "^7.0",
         "symfony/property-access": "^7.0",
         "symfony/var-dumper": "^7.0"
-    }
+    },
     "autoload": {
         "psr-4": {
             "AcmePhp\\": "src/"
